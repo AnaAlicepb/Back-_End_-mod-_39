@@ -1,0 +1,8 @@
+<servlet>
+    <servlet-name>CadastroServlet</servlet-name>
+    <servlet-class>br.com.ana.cadastro.CadastroServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>CadastroServlet</servlet-name>
+    <url-pattern>/CadastroServlet</url-pattern>
+</servlet-mapping>

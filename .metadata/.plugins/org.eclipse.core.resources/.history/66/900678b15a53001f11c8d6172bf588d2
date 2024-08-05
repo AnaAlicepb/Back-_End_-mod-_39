@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Cadastro de Usuário</title>
+</head>
+<body>
+    <h1>Bem-vindo ao Cadastro de Usuário</h1>
+    <a href="cadastro.jsp">Ir para o formulário de cadastro</a>
+</body>
+</html>

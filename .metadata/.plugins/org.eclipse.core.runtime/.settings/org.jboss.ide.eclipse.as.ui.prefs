@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+org.jboss.ide.eclipse.as.ui.preferences.disabled.automatic.server.view=true
+org.jboss.ide.eclipse.as.ui.preferences.enabledDecorators.1=true
+org.jboss.ide.eclipse.as.ui.preferences.runtime.last.type.org.jboss.ide.eclipse.as.runtime.wildfly.200=G\:\\eclipse\\wildfly-20.0.1.Final\\wildfly-20.0.1.Final
+org.jboss.ide.eclipse.as.ui.wizards.LAST_RUNTIME_CREATED=Apache Tomcat v10.1
+org.jboss.ide.eclipse.as.ui.wizards.LAST_RUNTIME_TYPE_CREATED=org.eclipse.jst.server.tomcat.runtime.101
+org.jboss.ide.eclipse.as.ui.wizards.LAST_SERVER_CREATED=Tomcat v10.1 Server at localhost
+org.jboss.ide.eclipse.as.ui.wizards.LAST_SERVER_TYPE_CREATED=org.eclipse.jst.server.tomcat.101
